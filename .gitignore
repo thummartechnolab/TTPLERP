@@ -1,2 +1,5 @@
 WEB/.angular
 /.vs
+/API/TTPL.ERP.API/.vs/TTPL.ERP.API
+/API/TTPL.ERP.API/bin/Debug/net7.0
+/API/TTPL.ERP.API/obj
